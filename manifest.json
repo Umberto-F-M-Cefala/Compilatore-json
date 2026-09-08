@@ -1,8 +1,8 @@
 {
-  "name": "Riduci-rumore",
-  "short_name": "Riduci-rumore",
-  "description": "Protptipo per ridurre il rumore con onda contraria",
-  "start_url": "/reduce-noise/",
+  "name": "Compilatore-json",
+  "short_name": "Compilatore-json",
+  "description": "compilatore per archivio json",
+  "start_url": "/Compilatore-json/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
