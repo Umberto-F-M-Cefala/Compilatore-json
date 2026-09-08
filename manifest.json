@@ -1,0 +1,22 @@
+{
+  "name": "Riduci-rumore",
+  "short_name": "Riduci-rumore",
+  "description": "Protptipo per ridurre il rumore con onda contraria",
+  "start_url": "/reduce-noise/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
