@@ -1,10 +1,10 @@
-const CACHE_NAME = 'reduce-noise';
+const CACHE_NAME = 'Compilatore-json';
 
 const urlsToCache = [
-  '/reduce-noise/',
-  '/reduce-noise/index.html',
-  '/reduce-noise/icon-192x192.png',
-  '/reduce-noise/icon-512x512.png'
+  '/Compilatore-json/',
+  '/Compilatore-json/index.html',
+  '/Compilatore-json/icon-192x192.png',
+  '/Compilatore-json/icon-512x512.png'
 ];
 
 self.addEventListener('install', event => {
